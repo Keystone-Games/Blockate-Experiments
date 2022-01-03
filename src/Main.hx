@@ -11,6 +11,8 @@ class Main extends App {
         var menuScene = new h2d.Scene;
         setScene(menuScene());
         s2d;
+        
+        MenuScene.begin(s2d);
     }
     static function main() {
         new Main();
