@@ -1,6 +1,6 @@
 -cp src
 -lib heaps
 -lib hlsdl
--hl hello.hl
+-hl out/hello.hl
 -main Main
 -D windowSize=1920x1080
