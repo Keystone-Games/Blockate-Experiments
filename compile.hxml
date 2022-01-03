@@ -2,5 +2,6 @@
 -lib heaps
 -lib hlsdl
 -hl out/hello.hl
+-hl out/hello.c
 -main Main
 -D windowSize=1920x1080
